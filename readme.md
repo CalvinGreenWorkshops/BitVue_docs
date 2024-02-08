@@ -1,3 +1,4 @@
+[NeuroBit Goerli](https://goerli.etherscan.io/address/0xa89d4cab18ae3934e712aecfeae05e810c1ac7b4)
 # Transformative Power of BitVue AI in Cryptocurrency
 
 These documents illuminate the transformative power of automated trading strategies, token contracts, and application components tailored for BitVue AI users. By leveraging cutting-edge technologies like LSTM neural networks and decentralized finance principles, they aim to tackle the challenges inherent in the cryptocurrency landscape.
@@ -38,4 +39,8 @@ In essence, these documents underscore the potential of advanced technologies an
 - **Python Script Integration:** Utilizes a Python script leveraging LSTM neural networks for predictive modeling of cryptocurrency prices.
 - **ABI (Application Binary Interface):** Includes a function updateTokenPrice, allowing for the adjustment of the token price based on the LSTM predicted price, enhancing trading efficiency.
 - **Overall:** Empowers users to participate in the crypto market autonomously, leveraging decentralized infrastructure and ensuring a seamless integration of crypto wallets.
+
+
+
+
 
