@@ -1,4 +1,5 @@
-[NeuroBit Goerli](https://goerli.etherscan.io/address/0xa89d4cab18ae3934e712aecfeae05e810c1ac7b4)
+[NeuroBit Goerli Price Transparency](https://goerli.etherscan.io/address/0xa89d4cab18ae3934e712aecfeae05e810c1ac7b4)
+[NeuroBit Goerli Price Transactions (buy/sell)](https://goerli.etherscan.io/token/0xa89d4cab18ae3934e712aecfeae05e810c1ac7b4)
 # Transformative Power of BitVue AI in Cryptocurrency
 
 These documents illuminate the transformative power of automated trading strategies, token contracts, and application components tailored for BitVue AI users. By leveraging cutting-edge technologies like LSTM neural networks and decentralized finance principles, they aim to tackle the challenges inherent in the cryptocurrency landscape.
